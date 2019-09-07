@@ -14,5 +14,7 @@ add dev
 
 merge use --no-ff
 
+test git stash
+
 
 fix bug

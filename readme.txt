@@ -12,3 +12,6 @@ add a new branch dev`
 add dev
 
 
+merge use --no-ff
+
+
